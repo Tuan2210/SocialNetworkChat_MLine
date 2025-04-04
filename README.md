@@ -4,6 +4,10 @@ https://mchat-realtimechat-cnm.netlify.app/login
 # Android
 https://drive.google.com/file/d/1AFR-zeh8fwQjxoA43tpNDg-VyiQksu3p/view?usp=share_link
 # Development
+## Workflow
+![Gitdiagram-preview](https://github.com/user-attachments/assets/7149ee24-db4e-4ed8-8da9-836a19cc951d) <br>
+[Gitdiagram link](https://gitdiagram.com/Tuan2210/SocialNetworkChat_MLine)
+
 ## Requirement
 Download and copy file .env and google-cloud-key.json to server folder
 
@@ -28,4 +32,3 @@ npm run server
 npm run mobile
 ```
 3. app will deploy on expo 
-
